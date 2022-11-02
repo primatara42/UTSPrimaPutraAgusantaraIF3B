@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTSPrimaPutraAgusantaraIF3B</string>
+    <string-array name="jalurpendaftaran">
+        <item>"Tes Tertulis"</item>
+        <item>"Jalur Tanpa Tes"</item>
+        <item>"Ujian Saringan Masuk"</item>
+
+    </string-array>
+</resources>
